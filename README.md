@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm V3lheiz! 👋
 
-<!--
-**V3lheiz/V3lheiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build amazing projects. Here's a little about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning **[Your current learning topic or technology]**.
+- 👨‍💻 Working on **[Your current project or focus]**.
+- 💡 Interested in **[Your areas of interest, e.g., AI, Web Development, Open Source]**.
+- 📫 How to reach me: **[Your preferred method of contact, e.g., email or LinkedIn]**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- Programming Languages: **[List languages you know, e.g., Python, JavaScript, etc.]**
+- Frameworks: **[List frameworks you're familiar with, e.g., React, Django, etc.]**
+- Tools: **[List tools you use, e.g., Git, Docker, etc.]**
+
+## 📈 GitHub Stats
+![V3lheiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=V3lheiz&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=V3lheiz&theme=monokai)
+
+## 📫 Connect with Me
+- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/yourusername)
+- [Email](mailto:youremail@example.com)
+
+Thanks for visiting my profile! 😊
