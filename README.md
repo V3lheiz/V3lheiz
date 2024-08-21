@@ -33,6 +33,9 @@
 - **whatsapp:** [V3lheiz](https://wa.me/6282131094894)
 
 ---
+<a href="https://sociabuzz.com/v3lheiz" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32px" alt="Sociabuzz"></a>
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=V3lheiz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=V3lheiz" height="150" alt="stats graph"  />
