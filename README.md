@@ -1,10 +1,9 @@
 <h1 align="center">Hellow There, i am V3lheiz 👋</h1>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=V3lheiz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/V3lheiz)
 ---
 
 <h3 align="left">Sosial Media</h1>
-
----
 
 <div align="center">
   <a href="https://discord.com/invite/EJ9dQZvCbg" target="_blank">
