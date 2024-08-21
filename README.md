@@ -1,5 +1,7 @@
 <h1 align="center">i am V3lheiz 👋</h1>
 
+[![Profile Picture](https://ibb.co.com/cTCGzF5
+)](https://ibb.co.com/cTCGzF5)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=V3lheiz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/V3lheiz)
 ---
 
