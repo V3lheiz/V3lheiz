@@ -1,7 +1,7 @@
 <h1 align="center">i am V3lheiz 👋</h1>
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/f0nhmpR/6705540da899143e15c5fc2cdff9ab05.jpg"  />
+  <img height="800" src="https://i.ibb.co.com/f0nhmpR/6705540da899143e15c5fc2cdff9ab05.jpg"  />
 </div>
 
 ###
