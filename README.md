@@ -1,6 +1,10 @@
-<h1 align="left">Hellow There, i am V3lheiz 👋</h1>
+<h1 align="center">Hellow There, i am V3lheiz 👋</h1>
 
-###
+---
+
+<h3 align="left">Sosial Media</h1>
+
+---
 
 <div align="center">
   <a href="https://discord.com/invite/EJ9dQZvCbg" target="_blank">
@@ -23,7 +27,13 @@
   </a>
 </div>
 
-###
+---
+
+## Contac Me For Help
+- **Email:** [zieroblank07@gmail.com](mailto:zieroblank07@gmail.com)
+- **whatsapp:** [V3lheiz](https://wa.me/6282131094894)
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=V3lheiz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=V3lheiz" height="150" alt="stats graph"  />
@@ -33,4 +43,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=V3lheiz&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+---
