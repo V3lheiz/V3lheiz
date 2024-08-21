@@ -1,4 +1,4 @@
-<h1 align="center">Hellow There, i am V3lheiz 👋</h1>
+<h1 align="center">i am V3lheiz 👋</h1>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=V3lheiz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/V3lheiz)
 ---
