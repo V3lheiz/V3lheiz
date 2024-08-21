@@ -1,7 +1,10 @@
 <h1 align="center">i am V3lheiz 👋</h1>
 
-[![Profile Picture](https://ibb.co.com/cTCGzF5
-)](https://ibb.co.com/cTCGzF5)
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/f0nhmpR/6705540da899143e15c5fc2cdff9ab05.jpg"  />
+</div>
+
+###
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=V3lheiz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/V3lheiz)
 ---
 
